@@ -6,3 +6,6 @@ Making a quick edit.
 
 ## Purpose
 create problem
+
+## Getting Started
+This is the getting started section.
